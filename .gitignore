@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+data/
+*.zip
+artifacts/best_audio_model.pth
+embeddings.csv
+embeddings.npy
+embeddings.pt
+spectrograms.pt
+pretrained_encoder.pth

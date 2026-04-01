@@ -1,0 +1,25 @@
+# requirements.txt – Deepfake Audio Detection
+
+# Core deep learning
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.1
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine learning utilities
+scikit-learn>=1.2.0
+
+# Data handling
+pandas>=1.5.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bar (optional but useful)
+tqdm>=4.65.0
