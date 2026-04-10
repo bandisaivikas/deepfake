@@ -47,4 +47,5 @@ pip install -r requirements.txt
 
 ## Author
 
-**Saivikas Koduri** · IIIT Naya Raipur · B.Tech Data Science & AI · Batch 2027
+**Saivikas bandi,Navneeth Kundrapu,Chaitanya krishna
+** · IIIT Naya Raipur · B.Tech Data Science & AI · Batch 2027
